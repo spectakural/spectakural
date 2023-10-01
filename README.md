@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 everynyan!😼 I'm Kural</h1>
-<h3 align="center">👾 A tech enthusiast with passion in frontend dev and computer vision. 🤖</h3>
+<h3 align="center">👾 A tech enthusiast with passion in full stack webdev and computer vision. 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectakural&label=Profile%20views&color=0e75b6&style=flat" alt="spectakural" /> </p>
 
